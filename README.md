@@ -19,6 +19,7 @@ A simple and responsive Todo List application built with **React** and **Bootstr
 > Replace the link above with your actual screenshot or local image path.
 
 ## 📂 Project Structure
+
 src/
 │
 ├── components/
@@ -32,4 +33,16 @@ src/
 ├── index.js # Entry point
 └── App.css # TAke care of styling 
 
+## 🛠️ Tech Stack
 
+- **React.js**
+- **Bootstrap 5**
+- HTML5 & CSS3
+
+## 🧑‍💻 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/yourusername/react-todo-app.git
+cd react-todo-app
