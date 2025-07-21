@@ -1,4 +1,4 @@
-# 📝 React Todo App
+# 📝 React Todo App (2nd Semester Work)
 
 A simple and responsive Todo List application built with **React** and **Bootstrap**. This app allows users to add tasks with due dates and manage them efficiently.
 
