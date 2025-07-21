@@ -1,0 +1,15 @@
+input {
+  width: 100%;
+}
+
+.Addbutton {
+  min-width: 60px;
+}
+
+.todorow {
+  margin: 10px 5px;
+}
+
+.items-container {
+  text-align: left;
+}
